@@ -4,7 +4,9 @@
 The Kepler Space Observatory is a NASA-build satellite that was launched in 2009. The telescope is dedicated to searching for exoplanets in star systems besides our own, with the ultimate goal of possibly finding other habitable planets besides our own. 
 
 ## Data Source
-[Kaggle](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
+
+The original dataset is published in [NASA](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=koi)
+The dataset used here is from [Kaggle](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
 
 ## Data
 This dataset is a cumulative record of all observed Kepler "objects of interest" — basically, all of the approximately 10,000 exoplanet candidates Kepler has taken observations on.
