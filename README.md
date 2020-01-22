@@ -5,7 +5,7 @@ The Kepler Space Observatory is a NASA-build satellite that was launched in 2009
 
 ## Data Source
 
-The original dataset is published in [NASA](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=koi)
+The original dataset is published in [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=koi)
 The dataset used here is from [Kaggle](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
 
 ## Data
