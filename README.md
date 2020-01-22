@@ -11,7 +11,7 @@ The dataset used here is from [Kaggle](https://www.kaggle.com/nasa/kepler-exopla
 ## Data
 This dataset is a cumulative record of all observed Kepler "objects of interest" — basically, all of the approximately 10,000 exoplanet candidates Kepler has taken observations on.
 
-This dataset has an extensive data dictionary. Highlightable columns of note are:
+This dataset has an extensive data dictionary (50 columns). Highlightable columns of note are:
 **kepoi_name:** A KOI is a target identified by the Kepler Project that displays at least one transit-like sequence within Kepler time-series photometry that appears to be of astrophysical origin and initially consistent with a planetary transit hypothesis
 **kepler_name:** [These names] are intended to clearly indicate a class of objects that have been confirmed or validated as planets—a step up from the planet candidate designation.
 **koi_disposition:** The disposition in the literature towards this exoplanet candidate. One of CANDIDATE, FALSE POSITIVE, NOT DISPOSITIONED or CONFIRMED.
